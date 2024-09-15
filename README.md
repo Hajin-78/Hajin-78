@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Hajin
+
+I want to be a good programmer. 네.
 
 <!--
 **Hajin-78/Hajin-78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
